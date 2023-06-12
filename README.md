@@ -16,7 +16,7 @@ My name is **Cindy Ratna Amalia**. I am an **Android Developer** at [Dicoding](h
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
+<a href="https://github.com/cineryam">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cineryam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cineryam&layout=compact&langs_count=8&theme=algolia"/>
 </a>
