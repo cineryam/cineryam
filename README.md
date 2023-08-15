@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-My name is **Cindy Ratna Amalia**. I am an **Android Developer** at [Dicoding](https://www.dicoding.com/). I also have the title [Junior Network Administrator] since 2022
+My name is **Cindy Ratna Amalia**. I am an **Android Developer** at [Dicoding](https://www.dicoding.com/). I also have the title of Junior Network Administrator since 2022
 
 - 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
 - 🌱 I’m currently learning about Android Application Fundamentals and Basic UX Design
